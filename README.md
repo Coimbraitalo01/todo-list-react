@@ -1,6 +1,6 @@
 # 📝 To-Do List com React
 
-![Preview da Aplicação](./public/screenshot.png)
+Preview da Aplicação: https://github.com/Coimbraitalo01/todo-list-react/blob/main/public/screenshot.png.png
 
 Aplicação de lista de tarefas com persistência em localStorage, desenvolvida com:
 
