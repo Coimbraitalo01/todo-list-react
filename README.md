@@ -1,7 +1,6 @@
 # 📝 To-Do List com React
 
-![Preview da Aplicação](https://raw.githubusercontent.com/Coimbraitalo01/todo-list-react/main/public/screenshot.png?raw=true)
-
+![Preview](https://raw.githubusercontent.com/Coimbraitalo01/todo-list-react/main/public/nova-imagem.png?raw=true&v=2)
 Aplicação de lista de tarefas com persistência em localStorage, desenvolvida com React e Vite.
 
 ## ✨ Funcionalidades Principais
