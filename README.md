@@ -1,28 +1,27 @@
 # 📝 To-Do List com React
 
-![Preview da Aplicação](./public/screenshot.png)
+![Preview da Aplicação](https://raw.githubusercontent.com/Coimbraitalo01/todo-list-react/main/public/screenshot.png?raw=true)
 
-Aplicação de lista de tarefas com persistência em localStorage, desenvolvida com:
+Aplicação de lista de tarefas com persistência em localStorage, desenvolvida com React e Vite.
+
+## ✨ Funcionalidades Principais
+
+- ✅ Adição e remoção de tarefas
+- 💾 Persistência automática no localStorage
+- 📱 Design responsivo para todos os dispositivos
+- ✔️ Marcação de tarefas completas
+- 🔍 Filtros de visualização (todas/ativas/completas)
+- 🎨 Interface moderna e intuitiva
+
+## 🛠️ Tecnologias Utilizadas
 
 - ⚛️ React 18
-- ⚡ Vite 5
-- 🎨 CSS moderno
+- ⚡ Vite 5 (Build Tool)
+- 🎨 CSS Modules (Estilização)
+- 📦 LocalStorage API (Persistência de dados)
 
-## ✨ Funcionalidades
-- Adição/remoção de tarefas
-- Persistência automática
-- Responsividade
-- Marcação de completas
+## 🚀 Como Executar o Projeto
 
-## 🛠️ Como Executar
+1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/todo-list-react.git
-cd todo-list-react
-npm install
-npm run dev
-```
-
-## 📸 Screenshot
-<div align="center">
-  <img src="./public/screenshot.png" width="400" alt="Preview da To-Do List">
-</div>
+git clone https://github.com/Coimbraitalo01/todo-list-react.git
